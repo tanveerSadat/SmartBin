@@ -1,4 +1,4 @@
-# Waste-Classification
+# SmartBin
 
 Written by Dev Desai, Liran Ashbel, Musab Mondal, and Tanveer Sadat
 
